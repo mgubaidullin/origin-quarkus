@@ -1,0 +1,10 @@
+.git
+.cache
+.idea
+docker-compose.yaml
+Dockerfile
+**/*.class
+**/target
+*.md
+README*.md
+
